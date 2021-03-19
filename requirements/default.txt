@@ -153,7 +153,7 @@ https://github.com/brosner/django-timezones/archive/ce12f4538fb98612c61b380421e5
 https://github.com/jsocol/django-waffle/archive/a5beffb15d07b6c5f92e04dba15ab609ab52e940.tar.gz#egg=django-waffle
 
 # sha256: NWZcEPVSRwd27M_RWSLTdI4w18AQLrd_3kfOKX2WuyM
-djangorestframework==2.3.14
+djangorestframework==3.11.2
 
 # sha256: fADkAZ7n55EIe3ahrkBnNW642cQlHyk3zHcOkQrvMko
 elasticutils==0.10.1
